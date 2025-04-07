@@ -13,7 +13,6 @@ I'm a Computer Science & Engineering student at **Southeast University, Banglade
 
 - 💡 I enjoy solving real-world problems using logic and creativity.
 - 🎯 Currently learning **Java**, **Data Structures & Algorithms**, and **Web Development**.
-- 🎬 Creator of [Simtion](https://www.youtube.com/@Simtion) – a cartoon-animation YouTube channel.
 - 🛠️ Constantly exploring new tools and technologies to improve my skills.
 
 ---
