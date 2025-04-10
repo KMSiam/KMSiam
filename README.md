@@ -12,7 +12,7 @@
 I'm a Computer Science & Engineering student at **Southeast University, Bangladesh**, passionate about programming and creative digital work.
 
 - 💡 I enjoy solving real-world problems using logic and creativity.
-- 🎯 Currently learning **Java**, **Data Structures & Algorithms**, and **Web Development**.
+- 🎯 Currently learning **java** Programing language.
 - 🛠️ Constantly exploring new tools and technologies to improve my skills.
 
 ---
