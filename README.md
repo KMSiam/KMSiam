@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm K. M. Siam 👋</h1>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/154364749?v=4" width="200">
+</div>
 
+<h1 align="center">Hi, I'm K. M. Siam 👋</h1>
 <p align="center">
   🎓 CSE Student | 💻 Programmer | 🎨 Creative Thinker <br>
   <em>Crafting code, solving problems, and always learning.</em>
