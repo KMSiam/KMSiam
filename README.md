@@ -57,7 +57,7 @@ This is my **personal portfolio** repository – a space to share:
 - 📹 **YouTube:** [@Simtion](https://www.youtube.com/@Simtion)  
 - 📘 **Facebook:** [K. M. Siam](https://www.facebook.com/share/1Aa1uH7MH7/)  
 - 📸 **Instagram:** [@k.m.siam15](https://www.instagram.com/k.m.siam15)  
-- 🐦 **X (Twitter):** [@k.m.siam15](https://twitter.com/k.m.siam15)
+- 🐦 **X (Twitter):** [@KMSiam15](https://twitter.com/KMSiam15)
 
 ---
 
