@@ -54,10 +54,10 @@ This is my **personal portfolio** repository – a space to share:
 ## 🌐 Connect with Me
 
 - 📧 **Email:** k.m.siam2019@gmail.com  
-- [In] **Linkedin:** [KM Siam](www.linkedin.com/in/km-siam-973723291)  
-- 📘 **Facebook:** [K. M. Siam](https://www.facebook.com/share/1Aa1uH7MH7/)  
-- 📸 **Instagram:** [@k.m.siam15](https://www.instagram.com/k.m.siam15)  
-- 🐦 **X (Twitter):** [@KMSiam15](https://twitter.com/KMSiam15)
+- ℹ️ **Linkedin:** [KM Siam](www.linkedin.com/in/km-siam-973723291)  
+- ⓕ **Facebook:** [K. M. Siam](https://www.facebook.com/share/1Aa1uH7MH7/)  
+- 🅾 **Instagram:** [@k.m.siam15](https://www.instagram.com/k.m.siam15)  
+- 𝕏 **X (Twitter):** [@KMSiam15](https://twitter.com/KMSiam15)
 
 ---
 
